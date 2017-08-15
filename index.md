@@ -1,6 +1,5 @@
-# Welcome to manaswinirao.com
+# Manaswini Rao
 
-## Hello and welcome to my website
+## About
 
-* This is a list
-* This is the second item in the list
+I am a doctoral candidate at the Department of Agricultural and Resource Economics, University of California Berkeley. My research fields include development economics, political and institutional economics. 
