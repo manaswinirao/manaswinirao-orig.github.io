@@ -4,3 +4,6 @@ I am a doctoral candidate at the Department of Agricultural and Resource Economi
 
 ## Contact
 email: manaswini.rao@berkeley.edu
+
+![Headshot](/images/RAOPhoto_2014-8.jpg)
+Format: ![Alt Text](url)
