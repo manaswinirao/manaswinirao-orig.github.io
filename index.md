@@ -7,6 +7,4 @@ email: manaswini.rao@berkeley.edu
 
 <img src="/RAOPhoto_2014-8.jpg" width="200">
 
-[Research] (/research.md)
-
 
