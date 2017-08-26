@@ -2,7 +2,7 @@
 
 I am a doctoral candidate at the Department of Agricultural and Resource Economics, University of California Berkeley. My research fields include development economics, political and institutional economics. 
 
-[Research]("manaswinirao.github.io/MRao_CV_2017.pdf")
+[Research!](research.md)
 
 [Curriculum Vitae]("manaswinirao.github.io/MRao_CV_2017.pdf")
 
