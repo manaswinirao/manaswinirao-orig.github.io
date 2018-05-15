@@ -4,7 +4,7 @@ I am a doctoral candidate at the Department of Agricultural and Resource Economi
 
 [Research](research.md)
 
-[Curriculum Vitae](MRao_CV_2018.pdf)
+[Curriculum Vitae](MRao_CV_2018_v2.pdf)
 
 [Teaching](teaching.md)
 
