@@ -3,3 +3,5 @@ title: Manaswini Rao
 email: manaswini.rao@gmail.com
 url: www.manaswinirao.com
 twitter: manaswini2110
+plugins:
+  - jekyll-sitemap
