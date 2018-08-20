@@ -1,6 +1,6 @@
 # About
 
-I am a doctoral candidate at the Department of Agricultural and Resource Economics, University of California Berkeley. My research fields include development economics, political and institutional economics. 
+I am a doctoral candidate at the Department of Agricultural and Resource Economics, University of California Berkeley. My research fields include development economics, political economics, and applied econometrics. 
 
 [Research](research.md)
 
