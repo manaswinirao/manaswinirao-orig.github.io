@@ -1,6 +1,9 @@
 # About
+I am a doctoral candidate in Development Economics in the Department of Agricultural and Resource Economics, University of California at Berkeley. My doctoral research is at the intersection of development and institutional economics, focusing on the importance of judicial institutions on economic development in India. In addition, I also study the economics of governing natural resources within the context of local irrigation management in Telangana, India.
 
-I am a doctoral candidate at the Department of Agricultural and Resource Economics, University of California Berkeley. My research fields include development economics, political economics, and applied econometrics. 
+Another track of my research agenda focuses on agricultural markets, where I study technology adoption, collective action in dairy production, and gender gap in agricultural wages. 
+
+My research fields include development economics, political economics, and applied econometrics. 
 
 [Research](research.md)
 
